@@ -92,7 +92,7 @@ class AtomPaynetz {
           this.responseencypritonKey +
           "&resencsaltkey=" +
           this.responsesaltKey +
-          "&payurl=https://payments.atomtech.in/paynetz/epi/fts&ru=https://www.atomtech.in/atomfluttersdk/AES/index.php&signature=" +
+          "&payurl=https://payment.atomtech.in/paynetz/epi/fts&ru=https://www.atomtech.in/atomfluttersdk/AES/index.php&signature=" +
           signature;
 
       // "https://payments.atomtech.in/paynetz/epi/fts?login=" +
